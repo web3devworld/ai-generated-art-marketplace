@@ -9,5 +9,3 @@ A decentralized application (dApp) for creators to sell AI-generated art as NFTs
 
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-url.git
